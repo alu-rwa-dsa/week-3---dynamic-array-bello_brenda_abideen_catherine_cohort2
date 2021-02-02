@@ -43,5 +43,6 @@ if __name__ == "__main__":
 
     print(p.a_lookup("name"))
 
-
+# Space complexity : O(1)
+# Time complexity : O(n(logn)
 
